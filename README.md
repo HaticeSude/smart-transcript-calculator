@@ -77,10 +77,10 @@ GÜNCEL GENEL AGNO (CGPA): 2.56
 ## 👩‍💻 Developer
 
 Hatice Sude Mutlu
-
+```
 📧 Email: haticesudemutlu@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/haticesudemutlu344/
-
+```
 ---
 
 ## 📜 License

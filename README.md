@@ -54,6 +54,7 @@ java Main
 ```
 ---
 ## 🧾 Example Usage
+```
 === Transcript GPA Calculator ===
 Ders adı: Programlamaya Giriş
 Kredi: 6
@@ -71,15 +72,16 @@ Başka ders eklemek ister misiniz? (E/H): H
 DÖNEM AGNO (GPA): 2.85
 GÜNCEL GENEL AGNO (CGPA): 2.56
 ==============================
+```
 ---
 ## 👩‍💻 Developer
 
 Hatice Sude Mutlu
 
 📧 Email: haticesudemutlu@gmail.com
-
 🔗 LinkedIn: https://www.linkedin.com/in/haticesudemutlu344/
 ---
+
 ## 📜 License
 
 This project is released under the MIT License.
